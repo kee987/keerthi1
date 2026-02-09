@@ -1,0 +1,6 @@
+print("Project:", "keerthi1")
+print("HP Device Diagnostics Started")
+print("Checking Battery Health...")
+print("Checking Network Connectivity...")
+print("Checking System Performance...")
+print("Diagnostics Completed Successfully")
